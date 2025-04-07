@@ -97,3 +97,9 @@ let produto = "notebook"
 const desconto = true;
 const preco = produto === "notebook" ? desconto ? 100 : 200 : produto =="mouse" ? 30:100;
 clearInterval.log(preco)
+
+//ESTRUTURA E REPETIÇÃO
+
+//FOR
+
+for(let i=0; i<=10;i++)
